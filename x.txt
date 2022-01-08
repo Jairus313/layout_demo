@@ -1,0 +1,9 @@
+Good Evening everyone,
+
+Today's Task Update:
+
+- Delivered AI session to APS Students.
+
+- Learnt about C++ pointers, arrays with pointers, function calling by reference and value, Dynamic Memory Allocation, Inheritance(Public, Private and Protected) and Function Overriding.
+
+Thank you.!
